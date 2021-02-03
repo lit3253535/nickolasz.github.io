@@ -452,12 +452,12 @@
 	justify-content: center;
 	align-items: center;
 	height: 100%;
-	padding: 10rem 0;
+	padding: 5rem 0;
 }
 
 .work h1{
 	color:#fff;
-	margin-bottom: 100px;
+	margin-bottom: 50px;
 	font-size: 60px;
 }
 
@@ -470,10 +470,10 @@
 }
 
 .work__wrapper h2{
-	display: flex;
+	display: grid;
 	justify-content: center;
 	color: #fff;
-	font-size: 2rem;
+	font-size: 1.6rem;
 	padding-bottom: 10px;
 }
 
