@@ -422,7 +422,7 @@
 
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 550px){
 	.main__img--card{
 		width: 306.5px;
 		height: 250px;
@@ -504,25 +504,27 @@
 	height: 480px;
 }
 
-@media screen and (max-width: 1420px){
-	.photos img{
-		width: 350px;
-		margin: 70px;
-	}
-}
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1440px){
+	.work__wrapper{
+		width: 75%;
+	}
+
 	.photos img{
 		width: 300px;
-		margin: 40px;
+		margin: 50px;
+	}
+	.photos{
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		align-items: center;
+		width: 100%;
+		padding: 10px;
+		/* background: #fff; */
+		text-align: center;
+		}
 	}
 }
-@media screen and (max-width: 800px){
-	.videos iframe{
-		width: 600px;
-		height: 425px;
-	}
-}
-
-
 
