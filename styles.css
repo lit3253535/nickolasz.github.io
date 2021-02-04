@@ -516,13 +516,13 @@
 		width: 300px;
 		margin: 40px;
 	}
-
+}
 @media screen and (max-width: 800px){
 	.videos iframe{
 		width: 600px;
 		height: 425px;
 	}
 }
-}
+
 
 
