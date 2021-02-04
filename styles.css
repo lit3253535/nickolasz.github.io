@@ -486,3 +486,10 @@
 	width: 500px;
 	margin: 100px;
 }
+
+.videos{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
